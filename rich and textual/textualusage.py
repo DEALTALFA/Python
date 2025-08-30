@@ -3,7 +3,6 @@ from textual.app import App
 from textual.widgets import Static
 from textual.containers import Container
 import psutil
-import time
 
 class SystemMonitor(App):
     def __init__(self):

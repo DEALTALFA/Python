@@ -1,7 +1,6 @@
 
 from rich.progress import Progress, DownloadColumn, TransferSpeedColumn, TimeRemainingColumn
 import requests
-import os
 
 def download_file(url, filename):
     # Create custom progress columns

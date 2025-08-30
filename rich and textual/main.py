@@ -1,6 +1,6 @@
 
 # showcase how to use rich module
-from rich import print
+# from rich import print
 from rich.console import Console
 from rich.table import Table
 from rich.progress import track
